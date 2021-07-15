@@ -1,8 +1,9 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sobassy&show_icons=true&count_private=true&include_all_commits=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api?username=sobassy&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobassy&layout=compact" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobassy&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <!--
 **sobassy/sobassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
