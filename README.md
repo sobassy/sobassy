@@ -1,5 +1,5 @@
 # Hi! I'm Sobassy! ✋ NOOB Programmer💻..
-https://drive.google.com/drive/u/0/folders/1TJLeBtndOliHOW6LEtqBfzjNsFGoZUud
+
 <p>
 <a href="https://github.com/sobassy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/sobasssy" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
