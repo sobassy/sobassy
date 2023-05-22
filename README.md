@@ -71,7 +71,9 @@
   
 [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,express,selenium,latex,nginx)](https://skillicons.dev)
 
-
+## Portrait 🖼
+<img width="100%" src="https://github.com/sobassy/sobassy/assets/38715452/428c8d1e-4edc-4a0a-ab91-08257f72a7a9" alt="sobassy" />
+  
 ## Description ⚙️
 
 <!--START_SECTION:waka-->
