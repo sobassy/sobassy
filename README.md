@@ -77,6 +77,15 @@
 ## Description ⚙️
 
 <!--START_SECTION:waka-->
+
+```text
+Python       6 hrs 8 mins    ████████████▒░░░░░░░░░░░░   49.90 %
+TypeScript   1 hr 53 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+Markdown     1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+NSIS         1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+YAML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
