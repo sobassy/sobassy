@@ -73,11 +73,14 @@
 
 ## Portrait 🖼
 <img width="100%" src="https://github.com/sobassy/sobassy/assets/38715452/428c8d1e-4edc-4a0a-ab91-08257f72a7a9" alt="sobassy" />
-  
+
+<!--
 ## Description ⚙️
+-->
 
 <!--START_SECTION:waka-->
-
+  
+<!--
 ```text
 Python       6 hrs 8 mins    ████████████▒░░░░░░░░░░░░   49.90 %
 TypeScript   1 hr 53 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
@@ -85,8 +88,10 @@ Markdown     1 hr 25 mins    ███░░░░░░░░░░░░░░
 NSIS         1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
 YAML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
-
+-->
 <!--END_SECTION:waka-->
+  
+
 
 <!--
 **sobassy/sobassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
