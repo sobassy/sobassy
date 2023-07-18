@@ -71,12 +71,12 @@
   
 [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,express,selenium,latex,nginx)](https://skillicons.dev)
 
-## Portrait 🖼
-<img width="100%" src="https://github.com/sobassy/sobassy/assets/38715452/428c8d1e-4edc-4a0a-ab91-08257f72a7a9" alt="sobassy" />
-
-<!--
 ## Description ⚙️
--->
+<img width="80%" src="https://wakatime.com/share/@sobassy/c503c25e-090c-4a4d-9bfe-665af9d53b25.svg" />
+<img width="80%" src="https://wakatime.com/share/@sobassy/d3206ef4-ac1f-4815-ab6c-3b3ff69b0eb2.svg" />
+
+## Portrait 🖼
+<img width="80%" src="https://github.com/sobassy/sobassy/assets/38715452/428c8d1e-4edc-4a0a-ab91-08257f72a7a9" alt="sobassy" />
 
 <!--START_SECTION:waka-->
   
